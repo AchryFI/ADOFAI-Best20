@@ -26,7 +26,8 @@ cd ADOFAI-Best20
 
 ### 2.安装依赖
 ```bash
-pip install pillow requests coloredlogs
+pip install pillow requests coloredlogs playwright
+playwright install
 ```
 
 ### 3.运行
