@@ -9,7 +9,7 @@
 
 ## 📷 效果预览
 
-![Demo 图片]()
+![Demo 图片](https://github.com/AchryFI/ADOFAI-Best20/blob/main/assets/b20_684.png?raw=true)
 
 > 示例图：上方包含玩家排名、最高击破、12K 击破等统计信息，下方显示Best 20击破，整体风格清晰现代。
 
