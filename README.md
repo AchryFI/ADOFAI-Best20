@@ -1,6 +1,6 @@
-<div align="center">
+
 # ADOFAI B20 排名图生成器 
-</div>
+
 一个用 Python 编写的工具，用于自动生成The Universal Forums [ADOFAI](https://indienova.com/corp/adofai) B20（Best of 20，即分数最好的20个击破）。支持自定义数据、样式与背景，一键生成美观的图片，适合分享至社区、QQ 或 Discord。
 
 >  本项目为 **命令行工具**，需要安装Python运行！
